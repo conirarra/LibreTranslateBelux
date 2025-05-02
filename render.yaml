@@ -7,4 +7,5 @@ services:
     envVars:
       - key: DJANGO_SECRET_KEY
         value: "8394f366f9e24d6f8657ec78581fb5ca"
-
+      - key: PORT
+        value: "10000" 
